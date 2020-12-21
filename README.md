@@ -1,6 +1,8 @@
 ### Hello and thank you for checking out my portfolio! 
 
-##### 24 year old aspiring developer raised in north New Jersey. <br><br> I love to paint and attend live music events in my free time. Skateboarding, art, photography, and videography are just a few of my other passions. Technology definetely has always been an interest of mine as well which is why im excited to discover the many intricacies of being a Full Stack Developer. Constantly keeping myself busy by learning and growing in any way I can. I have two dogs, Hunter and Oso who keep me occupied. I prefer to be in the woods or deep into a craft, but I also love the city life. Excited to discover the next chapter of my life but also enjoying the ride along the way.</p>
+##### 24 year old aspiring developer raised in north New Jersey. <br><br> I love to paint and attend live music events in my free time. Skateboarding, art, photography, and videography are just a few of my other passions. Technology definetely has always been an interest of mine as well which is why im excited to discover the many intricacies of being a Full Stack Developer. Constantly keeping myself busy by learning and growing in any way I can. I have two dogs, Hunter and Oso who keep me occupied. I prefer to be in the woods or deep into a craft, but I also love the city life. Excited to discover the next chapter of my life but also enjoying the ride along the way.
+
+[Porfolio Link](https://crozarts.github.io/portfolio/)
 
 <!--
 **Crozarts/crozarts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
